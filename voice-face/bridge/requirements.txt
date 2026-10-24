@@ -1,0 +1,5 @@
+anthropic>=2.3.0
+faster-whisper>=1.2.1
+numpy
+piper-tts>=1.8.0
+websockets>=15
