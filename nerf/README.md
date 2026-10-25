@@ -68,9 +68,11 @@ ESP32-CAM GPIO2  ── armeerschakelaar pool B ── GND  (interne pull-up, la
   (eventueel met een plat alu-strip of één klein printplaatje als adapter
   tussen het gatenpatroon van de beugel en de kooi).
 - Typische maten van een Stryfe-kooi: ±60 × 50 × 45 mm (L × B × H) zonder
-  magazijn; meet je eigen kooi na. Het magazijn steekt er ±80-150 mm onder uit,
-  dus leg de tilt-as hoog genoeg of laat het magazijn schuin naar achteren
-  wijzen.
+  magazijn; meet je eigen kooi na. Het magazijn steekt er ±80-150 mm onder uit.
+  De tilt-as zit ±90 mm boven het deksel van de projectdoos, dus bij lage
+  elevatie raakt een lang magazijn het deksel. Kies een kort 6-pijltjesmagazijn,
+  verhoog de beugel met afstandsbussen of een alu strip, en/of begrens de
+  minimale elevatie in de firmware.
 - Zwaartepunt zo dicht mogelijk bij de tilt-as, anders moet de MG995 constant
   tegen het gewicht in houden.
 - De ESP32-CAM komt bovenop de kooi, lens evenwijdig aan de schietrichting.
