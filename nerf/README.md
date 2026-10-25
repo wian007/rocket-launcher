@@ -63,8 +63,10 @@ ESP32-CAM GPIO2  ── armeerschakelaar pool B ── GND  (interne pull-up, la
 
 ## Hoe het op de pan/tilt-houder past
 
-- De kooi vervangt de Ø25 mm-buis. De wieg krijgt een variant met een vlakke
-  plaat (M3-gaten op het patroon van de kooi) in plaats van de buisklem.
+- Uitgaande van de aluminium MG996R 2DOF pan/tilt-beugelset: de kooi vervangt
+  de 20 mm PVC-buis en schroeft met M3-boutjes direct op de bovenste U-beugel
+  (eventueel met een plat alu-strip of één klein printplaatje als adapter
+  tussen het gatenpatroon van de beugel en de kooi).
 - Typische maten van een Stryfe-kooi: ±60 × 50 × 45 mm (L × B × H) zonder
   magazijn; meet je eigen kooi na. Het magazijn steekt er ±80-150 mm onder uit,
   dus leg de tilt-as hoog genoeg of laat het magazijn schuin naar achteren
